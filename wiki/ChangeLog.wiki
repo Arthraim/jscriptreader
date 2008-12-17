@@ -1,20 +1,19 @@
- *2008-12-18
-{{{
-1# Get current path to make resource to be well.
-2# Change the Layout, make it more beautiful.
-3# Update the Graphic.
-}}}
+ * 2008-12-18
 
- *2008-12-17
-{{{
-1# Easily show the images in Graphic panel
-2# Show script file's content on Script panel
-3# upload some multimedia example resources
-}}}
+ # Get current path to make resource to be well.
+ # Change the Layout, make it more beautiful.
+ # Update the Graphic.
 
- *2008-12-16
-{{{
-Project begins
-1# Add Graphic panel 
-2# Add Script panel
-}}}
+
+ * 2008-12-17
+
+ # Easily show the images in Graphic panel
+ # Show script file's content on Script panel
+ # upload some multimedia example resources
+
+
+ * 2008-12-16
+
+ # Project begins
+ # Add Graphic panel 
+ # Add Script panel
