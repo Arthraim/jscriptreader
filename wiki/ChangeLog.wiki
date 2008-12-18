@@ -4,12 +4,9 @@
  # Change the Layout, make it more beautiful.
  # Update the Graphic.
 
-*night*
+ * night
  # Add Folder Domain and all 5 classes. 
- # Add Folder Service and 3 classes. 
-   First 5 classes was modified from CSharp, 
-   1 of Last 3 classes was modified and another just finished half, 
-   the other is still a CSharp class.
+ # Add Folder Service and 3 classes.First 5 classes was modified from CSharp, 1 of Last 3 classes was modified and another just finished half, the other is still a CSharp class.
 
 
  * 2008-12-17
