@@ -1,3 +1,8 @@
+ * 2008-12-19
+ # Confirm info panel.
+ # Reset layout of main frame.
+ # Change some resources.
+
  * 2008-12-18 night
  # Add Folder Domain and all 5 classes. 
  # Add Folder Service and 3 classes.First 5 classes was modified from CSharp, 1 of Last 3 classes was modified and another just finished half, the other is still a CSharp class.
