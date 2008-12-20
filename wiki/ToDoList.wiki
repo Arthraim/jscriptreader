@@ -1,7 +1,7 @@
 #summary What's left?
 #labels Featured
 
-==2008-12-20==
+ * ==2008-12-20==
 
  # Slow down the speed of running in loop way.
  # Edit script form.
