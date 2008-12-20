@@ -1,3 +1,11 @@
+ * 2008-12-20 morning
+ # Complete info panel.
+ # Complete all service.
+ # Complete query script mode.
+ # Complete open & close script in menu bar.
+ # All most Complete loop mode. It runs too fast, and I really hard to slow it down. Sleep is bad.
+ # Still left edit script form.
+
  * 2008-12-19
  # Confirm info panel.
  # Reset layout of main frame.
