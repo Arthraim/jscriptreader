@@ -4,6 +4,6 @@
  * ==2008-12-20==
 
  # Slow down the speed of running in loop way.
-'# Edit script form.'
-'# Maybe, about form.'
+ # 'Edit script form.'
+ # 'Maybe, about form.'
  # Maybe, index text field and now command text field.
