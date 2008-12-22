@@ -1,5 +1,5 @@
 #labels Featured
- * 2008-12-22
+ * ==2008-12-22==
 
   # Add graphic panel's text color chooser.
   # Add graphic panel's text font chooser. The chooser's code is written by Noah w. I got it from Internet.
@@ -7,7 +7,7 @@
   # Add a new About Form written by myself instead of Confirm Dialog.
  
 
- * 2008-12-20
+ * ==2008-12-20==
 
   # Complete info panel.
   # Complete all service.
@@ -16,31 +16,31 @@
   # All most Complete loop mode. It runs too fast, and I really hard to slow it down. Sleep is bad.
   # Still left edit script form.
 
- * 2008-12-19
+ * ==2008-12-19==
 
   # Confirm info panel.
   # Reset layout of main frame.
   # Change some resources.
 
- * 2008-12-18 night
+ * ==2008-12-18 night==
 
   # Add Folder Domain and all 5 classes. 
   # Add Folder Service and 3 classes.First 5 classes was modified from CSharp, 1 of Last 3 classes was modified and another just finished half, the other is still a CSharp class.
 
- * 2008-12-18
+ * ==2008-12-18==
 
   # Get current path to make resource to be well.
   # Change the Layout, make it more beautiful.
   # Update the Graphic.
 
- * 2008-12-17
+ * ==2008-12-17==
 
   # Easily show the images in Graphic panel
   # Show script file's content on Script panel
   # upload some multimedia example resources
 
 
- * 2008-12-16
+ * ==2008-12-16==
 
   # Project begins
   # Add Graphic panel 
