@@ -1,4 +1,9 @@
 #labels Featured
+ * ==2008-12-24==
+
+  # Modified the layout of NwFontChooserS.
+    Merry X'mas.
+
  * ==2008-12-22==
 
   # Add graphic panel's text color chooser.
